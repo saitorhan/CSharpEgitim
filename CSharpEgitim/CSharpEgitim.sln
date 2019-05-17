@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.FormlarArasiBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.StringSayiDonusum", "CSharpEgitim.StringSayiDonusum\CSharpEgitim.StringSayiDonusum.csproj", "{97AE5719-7F8F-4B18-8761-3CF199080C02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.Veritabani", "CSharpEgitim.Veritabani\CSharpEgitim.Veritabani.csproj", "{353CB204-8DF0-4A16-9135-8D1324B95328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{97AE5719-7F8F-4B18-8761-3CF199080C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97AE5719-7F8F-4B18-8761-3CF199080C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97AE5719-7F8F-4B18-8761-3CF199080C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353CB204-8DF0-4A16-9135-8D1324B95328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353CB204-8DF0-4A16-9135-8D1324B95328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353CB204-8DF0-4A16-9135-8D1324B95328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353CB204-8DF0-4A16-9135-8D1324B95328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
