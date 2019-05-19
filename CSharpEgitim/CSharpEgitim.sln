@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.StringSayiDonu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.Veritabani", "CSharpEgitim.Veritabani\CSharpEgitim.Veritabani.csproj", "{353CB204-8DF0-4A16-9135-8D1324B95328}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.ExtensionMethod", "CSharpEgitim.ExtensionMethod\CSharpEgitim.ExtensionMethod.csproj", "{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{353CB204-8DF0-4A16-9135-8D1324B95328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{353CB204-8DF0-4A16-9135-8D1324B95328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{353CB204-8DF0-4A16-9135-8D1324B95328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
