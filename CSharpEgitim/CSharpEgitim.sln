@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.Veritabani", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.ExtensionMethod", "CSharpEgitim.ExtensionMethod\CSharpEgitim.ExtensionMethod.csproj", "{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitim.KimlikDogrulama", "CSharpEgitim.KimlikDogrulama\CSharpEgitim.KimlikDogrulama.csproj", "{C7D210B6-A0C5-4DEA-88E1-11D1D93CAE11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D1EEB40-31C9-4361-B9E5-CEAAEA8A8E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D210B6-A0C5-4DEA-88E1-11D1D93CAE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D210B6-A0C5-4DEA-88E1-11D1D93CAE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D210B6-A0C5-4DEA-88E1-11D1D93CAE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D210B6-A0C5-4DEA-88E1-11D1D93CAE11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

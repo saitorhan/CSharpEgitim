@@ -54,8 +54,8 @@ namespace CSharpEgitim.FormlarArasiBilgi
             PersonInfo personInfo = new PersonInfo();
             personInfo.ShowDialog();
 
-                personInfo.Person.Id = Persons.Max(p => p.Id) + 1;
-                Persons.Add(personInfo.Person);
+            personInfo.Person.Id = Persons.Max(p => p.Id) + 1;
+            Persons.Add(personInfo.Person);
             dataSourcePeople.DataSource = null;
             dataSourcePeople.DataSource = Persons;
         }
