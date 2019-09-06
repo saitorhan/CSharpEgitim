@@ -69,6 +69,7 @@ namespace CSharpEgitim.StringSayiDonusum
             string metin = textBoxNumber.Text;
 
             int sayi = metin.ToInt32OrDefault(-1);
+            MessageBox.Show(sayi.ToString());
         }
     }
 }
